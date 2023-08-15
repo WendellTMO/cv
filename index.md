@@ -7,91 +7,25 @@ layout: default
 _Computer Science student at [UFCG](https://www.computacao.ufcg.edu.br) - English Teacher at [CCAA](https://www.linkedin.com/company/ccaa/mycompany/verification/)_
 
 [Email](mailto:wendelltmo2306@outlook.com) / [Linkedin](https://www.linkedin.com/in/wendell-oliveira-972b62282/) / [Github](https://github.com/WendellTMO) 
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
 * * *
 
-### Here is an unordered list:
+## About Me:
+- I'm an undergraduate Computer Science student at UFCG and an English Teacher at CCAA. I was born in São Paulo, but I've been living in Paraíba for 3 years. I'm looking foward to learn with new experiences and improve my DEV skills. It'll be easy to find more information about me on my [Linkedin](https://www.linkedin.com/in/wendell-oliveira-972b62282/) page !
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 🎓 Education
+- **UFCG (Universidade Federal de Campina Grnade)** @ _(2022 - Present)_
+  -   Course: Computer Science / Expected Graduation: July 2026
+  -   More information about the course: [LINK](https://www.computacao.ufcg.edu.br/graduacao/plano-de-curso)
 
-### And an ordered list:
+- **CCAA** @ _(2013 - 2021)_
+  -   English Course
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## 💬 Language
 
-### And a nested list:
+- 🇧🇷**Portuguese**: Native
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- 🇬🇧**English**: Advanced
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+## ‍💼 Work Experience
+- **CCAA** @ _(2022 - Present)_
+  - Occupation: English Teacher
